@@ -1,0 +1,45 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Luna Pinyin Extended Dictionary(Chinese Classical Poetry) - 明月拼音擴充詞庫（物理學）
+#
+#   狸狌 <wang_yff@outlook.com>
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+#
+
+---
+name: luna_pinyin.physics
+version: "2020.01.01"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+昂內斯
+昂內斯方程
+昂薩格
+昂薩格關係
+白噪聲
+閉系
+標度律
+玻耳茲曼
+玻色
+超流
+弛豫時間
+磁化功
+磁光陷阱
+磁致伸縮
+磁滯回綫
+單相系
+單元系
+道爾頓
+德拜
+德拜頻譜
+等概率原理
+等溫壓縮係數
+位力係數
